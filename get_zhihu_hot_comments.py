@@ -34,7 +34,7 @@ def request_url(url, headers, retry_time=5, timeout=10):
 # cookie中保存了用户的登录信息
 headers = {
     'User-Agent':'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
-    'cookie':'_zap=fd365a0d-4e26-4008-a631-a38d509684cc; d_c0="AdBkkk7xFQ-PTlpM4WQGuMWJvl1v6pC9kMA=|1551950581"; capsion_ticket="2|1:0|10:1552544965|14:capsion_ticket|44:M2Q0NmZiY2NkYTk0NDQzYjllMmRkYWEwZjIzN2ZlMzE=|b71aab8c4a0c24e8d59bd04fed5aa1e7d0ba570c0deb7d182ee433619eeaa359"; z_c0="2|1:0|10:1552544967|4:z_c0|92:Mi4xdVJqZENBQUFBQUFCMEdTU1R2RVZEeVlBQUFCZ0FsVk54MEozWFFCWWd0Q0ZWcmFVR1U4QlBWS1JhVVJBOGhsVGZR|6ca0774cdf522c0727113b853fd5cbba7b67e579e31a441f5cc5e561bac0a5e5"; q_c1=bfd2504f611e4f11905cc563e5c5cf0a|1552545050000|1552545050000; tst=h; __utma=155987696.640029811.1552793133.1552793133.1552793133.1; __utmz=155987696.1552793133.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); _xsrf=e6cd83d0-3ca2-4c2b-88e7-f5ee3a89f4f6; tgw_l7_route=80f350dcd7c650b07bd7b485fcab5bf7'
+    'cookie':'''Your cookie'''
     }
 
 url = "https://www.zhihu.com/hot"
